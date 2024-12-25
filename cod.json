@@ -1,12 +1,6 @@
-
 base64:V2luZHNjcmliZSBvbiBIMiAoaGlkZGlmeSBvdXRib3VuZCk=
 //profile-update-interval: 100
 //subscription-userinfo: upload=154748364832; download=1680347580800; total=96636764160032; expire=1740774601
-//support-url:  https://t.me/F_NiREvil
-//profile-web-page-url: https://github.com/
-
-
-
 {
   "log": {
     "level": "warn",
